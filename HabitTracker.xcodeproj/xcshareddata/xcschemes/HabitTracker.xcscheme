@@ -16,7 +16,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "000000000000000100000000"
-               BuildableName = "AcademyHabitTracker.app"
+               BuildableName = "G2AcademyHabitTracker.app"
                BlueprintName = "HabitTracker"
                ReferencedContainer = "container:HabitTracker.xcodeproj">
             </BuildableReference>
@@ -36,7 +36,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CE2FC20D2FE2563E009E7DA4"
-               BuildableName = "HabitTrackerTests.xctest"
+               BuildableName = "G2AcademyHabitTracker.xctest"
                BlueprintName = "HabitTrackerTests"
                ReferencedContainer = "container:HabitTracker.xcodeproj">
             </BuildableReference>
@@ -59,7 +59,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "000000000000000100000000"
-            BuildableName = "AcademyHabitTracker.app"
+            BuildableName = "G2AcademyHabitTracker.app"
             BlueprintName = "HabitTracker"
             ReferencedContainer = "container:HabitTracker.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "000000000000000100000000"
-            BuildableName = "AcademyHabitTracker.app"
+            BuildableName = "G2AcademyHabitTracker.app"
             BlueprintName = "HabitTracker"
             ReferencedContainer = "container:HabitTracker.xcodeproj">
          </BuildableReference>
